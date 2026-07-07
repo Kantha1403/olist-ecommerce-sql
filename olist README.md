@@ -10,7 +10,6 @@ The project covers database design, data import and cleaning, and business-drive
 ## Tools Used
 - **MySQL 8.0** — database setup, data import, and all SQL analysis
 - **MySQL Workbench** — query execution and result validation
-- **Power BI** — dashboard and visualization (in progress)
 - **Python (Pandas)** — pre-import data cleaning (fixing date formats in orders CSV)
 
 ---
