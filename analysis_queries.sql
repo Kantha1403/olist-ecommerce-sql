@@ -2,7 +2,6 @@
 -- Olist E-Commerce SQL Analysis Queries
 -- Dataset: Brazilian E-Commerce Public Dataset by Olist (Kaggle)
 -- Tool: MySQL Workbench (MySQL 8.0)
--- Author: Kantha Lakshminarasimhan
 -- ============================================================
 
 USE olist_ecommerce;
